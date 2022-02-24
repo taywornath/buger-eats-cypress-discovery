@@ -1,0 +1,20 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de teste de aceitacao do app Buger-Eats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Tailine Wornath",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "gerador-validador-cpf": "^5.0.2",
+    "node-ipc": "^10.1.0"
+  }
+}

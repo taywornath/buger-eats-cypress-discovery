@@ -1,0 +1,43 @@
+{
+    "signup":{
+        "name": "Tailine Wornath",
+        "cpf": "00000001111",
+        "email": "twornath@hotmail.com",
+        "whatsapp": "55999998888",
+        "address": {
+            "postalcode": "88307010",
+            "number": "205",
+            "details": "3/33"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.png"
+    },
+
+    "cpf_inv":{
+        "name": "Vander Luis da Cruz Caneppelle",
+        "cpf": "X00000011AA",
+        "email": "caneppelle.v@hotmail.com",
+        "whatsapp": "55999997788",
+        "address": {
+            "postalcode": "88307010",
+            "number": "205",
+            "details": "3/33"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.png"
+    },
+
+    "email_inv":{
+        "name": "Anderson Silva",
+        "cpf": "00000001111",
+        "email": "anderson.com.br",
+        "whatsapp": "55999998956",
+        "address": {
+            "postalcode": "88307010",
+            "number": "1000",
+            "details": "Casa"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.png"
+    }
+}
