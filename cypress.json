@@ -1,4 +1,7 @@
 {
+    //testes de regressao online no cypress, nesse project id
+    "projectId": "qk8tps",
+    
     "viewportWidth": 1440,
     "viewportHeight": 900,
     "baseUrl": "https://buger-eats-qa.vercel.app"
